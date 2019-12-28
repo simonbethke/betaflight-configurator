@@ -864,6 +864,18 @@ li.active .ic_flasher {
     background-image: url(../images/icons/cf_icon_flasher_white.svg);
 }
 
+.ic_automation {
+    background-image: url(../images/icons/cf_icon_automation_grey.svg);
+}
+
+.ic_automation:hover {
+    background-image: url(../images/icons/cf_icon_automation_white.svg);
+}
+
+li.active .ic_automation {
+    background-image: url(../images/icons/cf_icon_automation_white.svg);
+}
+
 .ic_transponder {
     background-image: url(../images/icons/cf_icon_transponder_grey.svg);
     background-position-y: 2px;

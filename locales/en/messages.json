@@ -264,6 +264,9 @@
     "tabFirmwareFlasher": {
         "message": "Firmware Flasher"
     },
+    "tabSessionAutomation": {
+        "message": "Session Automation"
+    },
     "tabLanding": {
         "message": "Welcome"
     },
